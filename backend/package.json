@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.0",
     "joi": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "machine_learning": "^0.1.1",
     "method-override": "^3.0.0",
     "mongodb": "^3.5.5",
